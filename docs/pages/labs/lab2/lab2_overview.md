@@ -9,7 +9,7 @@ applies_to: [developer,administrator,consumer]
 
 ## Lecture PDF
 
- <iframe style="overflow:hidden;height:500;width:100%" height="500" width="100%" src="./assets/lectures/Lecture-REST_API_Proxy.pdf"> </iframe>
+ <iframe style="overflow:hidden;height:500;width:100%" height="500" width="100%" src="/assets/lectures/Lecture-REST_API_Proxy.pdf"> </iframe>
 
 
 ## Objective

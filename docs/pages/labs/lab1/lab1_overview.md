@@ -9,7 +9,7 @@ applies_to: [developer]
 
 ## Lecture PDF
 
- <iframe style="overflow:hidden;height:500;width:100%" height="500" width="100%" src="./assets/lectures/Lecture-API_Gateway_Assembly.pdf"> </iframe>
+ <iframe style="overflow:hidden;height:500;width:100%" height="500" width="100%" src="/assets/lectures/Lecture-API_Gateway_Assembly.pdf"> </iframe>
 
 ## Objective
 

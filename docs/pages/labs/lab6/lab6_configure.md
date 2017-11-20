@@ -65,6 +65,12 @@ or
     acl allow localhost:4001
 ```
 
+## Confirm Connection
+
+View the IBM Cloud API Manager to verify the connection with the Cloud Secure Gateway to your local computer. 
+
+![](./images/captures/acl-client.png)
+
 ## Continue
 
 Proceed to [Testing API in Bluemix Cloud](lab6_testing.html).
